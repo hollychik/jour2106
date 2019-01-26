@@ -1,5 +1,5 @@
 # jour2106
-TEST: markdown language
+TEST: markdown language :bowtie:
 
 * item 1
 * item 2
