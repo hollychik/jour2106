@@ -1,5 +1,5 @@
 # jour2106
-TEST
+TEST: markdown language
 
 * item 1
 * item 2
@@ -8,3 +8,6 @@ TEST
 ## head 2
 
 ### head 3
+
+Insert Photo:
+![https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png]
