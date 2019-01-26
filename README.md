@@ -11,3 +11,4 @@ TEST: markdown language
 
 Insert Photo:
 ![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![](https://jblevins.org/projects/markdown-mode/screenshots/20170818-001.png)
